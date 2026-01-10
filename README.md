@@ -4,10 +4,10 @@
 **Mastering Agentic AI & Mandarin Chinese (HSK) | Target: China CSC 2027**
 
 ## 🎯 The Vision
-Transforming from a Silent Observer into a Technical Founder. This repository serves as a transparent, day-by-day record of my 1.5-year preparation for studying in China and building autonomous agentic systems.
+Transforming from a Silent Observer into a Technical Founder. This repository serves as a transparent, day-by-day record of my 1-year preparation for studying in China and building autonomous agentic systems.
 
 - **Stack:** Python, Claude Code, Spec-Driven Development (SDD), MCP.
-- **Language:** Mandarin (Current Goal: HSK 2/3).
+- **Language:** Mandarin (Current Goal: HSK 4).
 - **Philosophy:** Small daily steps, clear vision, elite execution.
 
 ---
