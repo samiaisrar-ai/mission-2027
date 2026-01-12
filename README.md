@@ -32,6 +32,11 @@ Transforming from a Silent Observer into a Technical Founder. This repository se
 | **Jan 11** | **Project Submission:** Created & published [YouTube Demo](https://www.youtube.com/watch?v=Q2v6xxOQJK0). Submitted [Claude Code Custom Skills](https://github.com/samiaisrar-ai/claude-code-custom-skills) project. | ✅ |
 | **Jan 12** | *Awaiting Input...* | ⏳ |
 
+| Date | Accomplishment & Milestone | Status |
+| :--- | :--- | :--- |
+| **Jan 12** | **Baseline Maintenance:** Attended onsite class. Family obligations (Gathering). | 🟡 |
+| **Jan 13** | *Awaiting Input...* | ⏳ |
 
 ---
 *"Small baby steps every day become a clear win after one year."*
+
