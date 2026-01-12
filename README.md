@@ -37,6 +37,12 @@ Transforming from a Silent Observer into a Technical Founder. This repository se
 | **Jan 12** | **Baseline Maintenance:** Attended onsite class. Family obligations (Gathering). | 🟡 |
 | **Jan 13** | *Awaiting Input...* | ⏳ |
 
+| Date | Accomplishment & Milestone | Status |
+| :--- | :--- | :--- |
+| **Jan 13** | **Full Sprint:** HSK 1 Vocabulary 100% Completed & Revised. Transitioned to HSK 2 Class 3. | ✅ |
+| **Jan 14** | *Awaiting Input...* | ⏳ |
+
+
 ---
 *"Small baby steps every day become a clear win after one year."*
 
